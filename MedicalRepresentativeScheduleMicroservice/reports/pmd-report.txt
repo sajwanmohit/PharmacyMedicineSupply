@@ -1,0 +1,504 @@
+src/main/java/com/cts/application/MedicalRepresentativeScheduleMicroserviceApplication.java:11:	CommentRequired: Class comments are required
+src/main/java/com/cts/application/MedicalRepresentativeScheduleMicroserviceApplication.java:11:	CommentRequired: Class comments are required
+src/main/java/com/cts/application/MedicalRepresentativeScheduleMicroserviceApplication.java:11:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/cts/application/MedicalRepresentativeScheduleMicroserviceApplication.java:11:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/cts/application/MedicalRepresentativeScheduleMicroserviceApplication.java:13:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/application/MedicalRepresentativeScheduleMicroserviceApplication.java:13:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/application/MedicalRepresentativeScheduleMicroserviceApplication.java:13:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/cts/application/MedicalRepresentativeScheduleMicroserviceApplication.java:13:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/cts/controller/ScheduleController.java:21:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/controller/ScheduleController.java:21:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/controller/ScheduleController.java:21:	CommentRequired: Class comments are required
+src/main/java/com/cts/controller/ScheduleController.java:21:	CommentRequired: Class comments are required
+src/main/java/com/cts/controller/ScheduleController.java:23:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/cts/controller/ScheduleController.java:23:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/cts/controller/ScheduleController.java:24:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/controller/ScheduleController.java:24:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/controller/ScheduleController.java:24:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the service field if you want a default access modifier
+src/main/java/com/cts/controller/ScheduleController.java:24:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the service field if you want a default access modifier
+src/main/java/com/cts/controller/ScheduleController.java:24:	CommentRequired: Field comments are required
+src/main/java/com/cts/controller/ScheduleController.java:24:	CommentRequired: Field comments are required
+src/main/java/com/cts/controller/ScheduleController.java:27:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/controller/ScheduleController.java:27:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/controller/ScheduleController.java:27:	CommentRequired: Field comments are required
+src/main/java/com/cts/controller/ScheduleController.java:27:	CommentRequired: Field comments are required
+src/main/java/com/cts/controller/ScheduleController.java:30:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/controller/ScheduleController.java:30:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/controller/ScheduleController.java:30:	MethodArgumentCouldBeFinal: Parameter 'authorization' is not assigned and could be declared final
+src/main/java/com/cts/controller/ScheduleController.java:30:	MethodArgumentCouldBeFinal: Parameter 'authorization' is not assigned and could be declared final
+src/main/java/com/cts/controller/ScheduleController.java:31:	MethodArgumentCouldBeFinal: Parameter 'scheduleStartDate' is not assigned and could be declared final
+src/main/java/com/cts/controller/ScheduleController.java:31:	MethodArgumentCouldBeFinal: Parameter 'scheduleStartDate' is not assigned and could be declared final
+src/main/java/com/cts/controller/ScheduleController.java:32:	LocalVariableCouldBeFinal: Local variable 'response' could be declared final
+src/main/java/com/cts/controller/ScheduleController.java:32:	LocalVariableCouldBeFinal: Local variable 'response' could be declared final
+src/main/java/com/cts/date_formatter/DateFormat.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/date_formatter/DateFormat.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/date_formatter/DateFormat.java:13:	CommentRequired: Class comments are required
+src/main/java/com/cts/date_formatter/DateFormat.java:13:	CommentRequired: Class comments are required
+src/main/java/com/cts/date_formatter/DateFormat.java:15:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/date_formatter/DateFormat.java:15:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/date_formatter/DateFormat.java:15:	MethodArgumentCouldBeFinal: Parameter 'date' is not assigned and could be declared final
+src/main/java/com/cts/date_formatter/DateFormat.java:15:	MethodArgumentCouldBeFinal: Parameter 'date' is not assigned and could be declared final
+src/main/java/com/cts/date_formatter/DateFormat.java:17:	LocalVariableCouldBeFinal: Local variable 'sdf' could be declared final
+src/main/java/com/cts/date_formatter/DateFormat.java:17:	LocalVariableCouldBeFinal: Local variable 'sdf' could be declared final
+src/main/java/com/cts/date_formatter/DateFormat.java:17:	SimpleDateFormatNeedsLocale: When instantiating a SimpleDateFormat object, specify a Locale
+src/main/java/com/cts/date_formatter/DateFormat.java:17:	SimpleDateFormatNeedsLocale: When instantiating a SimpleDateFormat object, specify a Locale
+src/main/java/com/cts/date_formatter/DateFormat.java:21:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/date_formatter/DateFormat.java:21:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/date_formatter/DateFormat.java:21:	MethodArgumentCouldBeFinal: Parameter 'date' is not assigned and could be declared final
+src/main/java/com/cts/date_formatter/DateFormat.java:21:	MethodArgumentCouldBeFinal: Parameter 'date' is not assigned and could be declared final
+src/main/java/com/cts/date_formatter/DateFormat.java:24:	LocalVariableCouldBeFinal: Local variable 'sdf' could be declared final
+src/main/java/com/cts/date_formatter/DateFormat.java:24:	LocalVariableCouldBeFinal: Local variable 'sdf' could be declared final
+src/main/java/com/cts/date_formatter/DateFormat.java:24:	SimpleDateFormatNeedsLocale: When instantiating a SimpleDateFormat object, specify a Locale
+src/main/java/com/cts/date_formatter/DateFormat.java:24:	SimpleDateFormatNeedsLocale: When instantiating a SimpleDateFormat object, specify a Locale
+src/main/java/com/cts/date_formatter/DateFormat.java:25:	LocalVariableCouldBeFinal: Local variable 'd' could be declared final
+src/main/java/com/cts/date_formatter/DateFormat.java:25:	LocalVariableCouldBeFinal: Local variable 'd' could be declared final
+src/main/java/com/cts/date_formatter/DateFormat.java:25:	ShortVariable: Avoid variables with short names like d
+src/main/java/com/cts/date_formatter/DateFormat.java:25:	ShortVariable: Avoid variables with short names like d
+src/main/java/com/cts/date_formatter/DateFormat.java:26:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/date_formatter/DateFormat.java:26:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/exception/TokenInvalidException.java:7:	CommentRequired: Class comments are required
+src/main/java/com/cts/exception/TokenInvalidException.java:7:	CommentRequired: Class comments are required
+src/main/java/com/cts/exception/TokenInvalidException.java:7:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/com/cts/exception/TokenInvalidException.java:7:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/com/cts/exception/TokenInvalidException.java:8:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/exception/TokenInvalidException.java:8:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/exception/TokenInvalidException.java:8:	MethodArgumentCouldBeFinal: Parameter 'msg' is not assigned and could be declared final
+src/main/java/com/cts/exception/TokenInvalidException.java:8:	MethodArgumentCouldBeFinal: Parameter 'msg' is not assigned and could be declared final
+src/main/java/com/cts/feign/AuthServiceFeign.java:14:	CommentRequired: Class comments are required
+src/main/java/com/cts/feign/AuthServiceFeign.java:14:	CommentRequired: Class comments are required
+src/main/java/com/cts/feign/AuthServiceFeign.java:17:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/feign/AuthServiceFeign.java:17:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/feign/AuthServiceFeign.java:20:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/feign/AuthServiceFeign.java:20:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/feign/AuthServiceFeign.java:20:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'validate': the method is declared in an interface type
+src/main/java/com/cts/feign/AuthServiceFeign.java:20:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'validate': the method is declared in an interface type
+src/main/java/com/cts/feign/MedicineStockFeign.java:14:	CommentRequired: Class comments are required
+src/main/java/com/cts/feign/MedicineStockFeign.java:14:	CommentRequired: Class comments are required
+src/main/java/com/cts/feign/MedicineStockFeign.java:17:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/feign/MedicineStockFeign.java:17:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/feign/MedicineStockFeign.java:17:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'retrieveAllMedicines': the method is declared in an interface type
+src/main/java/com/cts/feign/MedicineStockFeign.java:17:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'retrieveAllMedicines': the method is declared in an interface type
+src/main/java/com/cts/model/JwtResponse.java:11:	CommentRequired: Class comments are required
+src/main/java/com/cts/model/JwtResponse.java:11:	CommentRequired: Class comments are required
+src/main/java/com/cts/model/JwtResponse.java:12:	CommentRequired: Field comments are required
+src/main/java/com/cts/model/JwtResponse.java:12:	CommentRequired: Field comments are required
+src/main/java/com/cts/model/JwtResponse.java:12:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/cts/model/JwtResponse.java:12:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/cts/model/JwtResponse.java:13:	CommentRequired: Field comments are required
+src/main/java/com/cts/model/JwtResponse.java:13:	CommentRequired: Field comments are required
+src/main/java/com/cts/model/JwtResponse.java:14:	CommentRequired: Field comments are required
+src/main/java/com/cts/model/JwtResponse.java:14:	CommentRequired: Field comments are required
+src/main/java/com/cts/model/JwtResponse.java:15:	CommentRequired: Field comments are required
+src/main/java/com/cts/model/JwtResponse.java:15:	CommentRequired: Field comments are required
+src/main/java/com/cts/model/Login.java:10:	CommentRequired: Class comments are required
+src/main/java/com/cts/model/Login.java:10:	CommentRequired: Class comments are required
+src/main/java/com/cts/model/Login.java:12:	CommentRequired: Field comments are required
+src/main/java/com/cts/model/Login.java:12:	CommentRequired: Field comments are required
+src/main/java/com/cts/model/Login.java:13:	CommentRequired: Field comments are required
+src/main/java/com/cts/model/Login.java:13:	CommentRequired: Field comments are required
+src/main/java/com/cts/model/MedicineStock.java:28:	LongVariable: Avoid excessively long variable names like chemicalComposition
+src/main/java/com/cts/model/MedicineStock.java:28:	LongVariable: Avoid excessively long variable names like chemicalComposition
+src/main/java/com/cts/model/ValidateResponse.java:8:	CommentRequired: Class comments are required
+src/main/java/com/cts/model/ValidateResponse.java:8:	CommentRequired: Class comments are required
+src/main/java/com/cts/model/ValidateResponse.java:9:	CommentRequired: Field comments are required
+src/main/java/com/cts/model/ValidateResponse.java:9:	CommentRequired: Field comments are required
+src/main/java/com/cts/service/ScheduleService.java:34:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/cts/service/ScheduleService.java:34:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/cts/service/ScheduleService.java:35:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the feign field if you want a default access modifier
+src/main/java/com/cts/service/ScheduleService.java:35:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the feign field if you want a default access modifier
+src/main/java/com/cts/service/ScheduleService.java:35:	CommentRequired: Field comments are required
+src/main/java/com/cts/service/ScheduleService.java:35:	CommentRequired: Field comments are required
+src/main/java/com/cts/service/ScheduleService.java:37:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/cts/service/ScheduleService.java:37:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/cts/service/ScheduleService.java:38:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the format field if you want a default access modifier
+src/main/java/com/cts/service/ScheduleService.java:38:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the format field if you want a default access modifier
+src/main/java/com/cts/service/ScheduleService.java:38:	CommentRequired: Field comments are required
+src/main/java/com/cts/service/ScheduleService.java:38:	CommentRequired: Field comments are required
+src/main/java/com/cts/service/ScheduleService.java:40:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/service/ScheduleService.java:40:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/service/ScheduleService.java:41:	CloseResource: Ensure that resources like this CSVReader object are closed after use
+src/main/java/com/cts/service/ScheduleService.java:41:	CloseResource: Ensure that resources like this CSVReader object are closed after use
+src/main/java/com/cts/service/ScheduleService.java:41:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'reader' (lines '41'-'47').
+src/main/java/com/cts/service/ScheduleService.java:41:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'reader' (lines '41'-'47').
+src/main/java/com/cts/service/ScheduleService.java:41:	UnusedAssignment: The initializer for variable 'reader' is never used (overwritten on line 47)
+src/main/java/com/cts/service/ScheduleService.java:41:	UnusedAssignment: The initializer for variable 'reader' is never used (overwritten on line 47)
+src/main/java/com/cts/service/ScheduleService.java:42:	CloseResource: Ensure that resources like this FileReader object are closed after use
+src/main/java/com/cts/service/ScheduleService.java:42:	CloseResource: Ensure that resources like this FileReader object are closed after use
+src/main/java/com/cts/service/ScheduleService.java:42:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'fileReader' (lines '42'-'45').
+src/main/java/com/cts/service/ScheduleService.java:42:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'fileReader' (lines '42'-'45').
+src/main/java/com/cts/service/ScheduleService.java:42:	UnusedAssignment: The initializer for variable 'fileReader' is never used (overwritten on line 45)
+src/main/java/com/cts/service/ScheduleService.java:42:	UnusedAssignment: The initializer for variable 'fileReader' is never used (overwritten on line 45)
+src/main/java/com/cts/service/ScheduleService.java:43:	LocalVariableCouldBeFinal: Local variable 'doctorList' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:43:	LocalVariableCouldBeFinal: Local variable 'doctorList' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:45:	AvoidFileStream: Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/main/java/com/cts/service/ScheduleService.java:45:	AvoidFileStream: Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/main/java/com/cts/service/ScheduleService.java:49:	AssignmentInOperand: Avoid assignments in operands
+src/main/java/com/cts/service/ScheduleService.java:49:	AssignmentInOperand: Avoid assignments in operands
+src/main/java/com/cts/service/ScheduleService.java:49:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'line' (lines '49'-'63').
+src/main/java/com/cts/service/ScheduleService.java:49:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'line' (lines '49'-'63').
+src/main/java/com/cts/service/ScheduleService.java:50:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/cts/service/ScheduleService.java:50:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/cts/service/ScheduleService.java:50:	LocalVariableCouldBeFinal: Local variable 'doc' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:50:	LocalVariableCouldBeFinal: Local variable 'doc' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:55:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/main/java/com/cts/service/ScheduleService.java:55:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/main/java/com/cts/service/ScheduleService.java:60:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/com/cts/service/ScheduleService.java:60:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/com/cts/service/ScheduleService.java:65:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/service/ScheduleService.java:65:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/service/ScheduleService.java:66:	LocalVariableCouldBeFinal: Local variable 'repList' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:66:	LocalVariableCouldBeFinal: Local variable 'repList' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:74:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/service/ScheduleService.java:74:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/service/ScheduleService.java:74:	MethodArgumentCouldBeFinal: Parameter 'ailment' is not assigned and could be declared final
+src/main/java/com/cts/service/ScheduleService.java:74:	MethodArgumentCouldBeFinal: Parameter 'ailment' is not assigned and could be declared final
+src/main/java/com/cts/service/ScheduleService.java:74:	MethodArgumentCouldBeFinal: Parameter 'authorization' is not assigned and could be declared final
+src/main/java/com/cts/service/ScheduleService.java:74:	MethodArgumentCouldBeFinal: Parameter 'authorization' is not assigned and could be declared final
+src/main/java/com/cts/service/ScheduleService.java:76:	LocalVariableCouldBeFinal: Local variable 'medicineStock' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:76:	LocalVariableCouldBeFinal: Local variable 'medicineStock' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:77:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/service/ScheduleService.java:77:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/service/ScheduleService.java:78:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/main/java/com/cts/service/ScheduleService.java:78:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/main/java/com/cts/service/ScheduleService.java:79:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:79:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:80:	LocalVariableCouldBeFinal: Local variable 'medicine' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:80:	LocalVariableCouldBeFinal: Local variable 'medicine' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:81:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/service/ScheduleService.java:81:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/service/ScheduleService.java:89:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/service/ScheduleService.java:89:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/service/ScheduleService.java:89:	MethodArgumentCouldBeFinal: Parameter 'authorization' is not assigned and could be declared final
+src/main/java/com/cts/service/ScheduleService.java:89:	MethodArgumentCouldBeFinal: Parameter 'authorization' is not assigned and could be declared final
+src/main/java/com/cts/service/ScheduleService.java:89:	MethodArgumentCouldBeFinal: Parameter 'date' is not assigned and could be declared final
+src/main/java/com/cts/service/ScheduleService.java:89:	MethodArgumentCouldBeFinal: Parameter 'date' is not assigned and could be declared final
+src/main/java/com/cts/service/ScheduleService.java:91:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'doctorList' (lines '91'-'143').
+src/main/java/com/cts/service/ScheduleService.java:91:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'doctorList' (lines '91'-'143').
+src/main/java/com/cts/service/ScheduleService.java:91:	LocalVariableCouldBeFinal: Local variable 'doctorList' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:91:	LocalVariableCouldBeFinal: Local variable 'doctorList' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:93:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'repList' (lines '93'-'143').
+src/main/java/com/cts/service/ScheduleService.java:93:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'repList' (lines '93'-'143').
+src/main/java/com/cts/service/ScheduleService.java:93:	LocalVariableCouldBeFinal: Local variable 'repList' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:93:	LocalVariableCouldBeFinal: Local variable 'repList' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:94:	LocalVariableCouldBeFinal: Local variable 'schedule' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:94:	LocalVariableCouldBeFinal: Local variable 'schedule' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:95:	ShortVariable: Avoid variables with short names like d
+src/main/java/com/cts/service/ScheduleService.java:95:	ShortVariable: Avoid variables with short names like d
+src/main/java/com/cts/service/ScheduleService.java:97:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/main/java/com/cts/service/ScheduleService.java:97:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/main/java/com/cts/service/ScheduleService.java:97:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/service/ScheduleService.java:97:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/service/ScheduleService.java:98:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:98:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:98:	ShortVariable: Avoid variables with short names like c
+src/main/java/com/cts/service/ScheduleService.java:98:	ShortVariable: Avoid variables with short names like c
+src/main/java/com/cts/service/ScheduleService.java:99:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/service/ScheduleService.java:99:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/service/ScheduleService.java:100:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'count' (lines '100'-'143').
+src/main/java/com/cts/service/ScheduleService.java:100:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'count' (lines '100'-'143').
+src/main/java/com/cts/service/ScheduleService.java:101:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'dateCount' (lines '101'-'143').
+src/main/java/com/cts/service/ScheduleService.java:101:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'dateCount' (lines '101'-'143').
+src/main/java/com/cts/service/ScheduleService.java:102:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'repCount' (lines '102'-'143').
+src/main/java/com/cts/service/ScheduleService.java:102:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'repCount' (lines '102'-'143').
+src/main/java/com/cts/service/ScheduleService.java:103:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/service/ScheduleService.java:103:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/service/ScheduleService.java:109:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/cts/service/ScheduleService.java:109:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/cts/service/ScheduleService.java:109:	LocalVariableCouldBeFinal: Local variable 'rep' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:109:	LocalVariableCouldBeFinal: Local variable 'rep' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:111:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/com/cts/service/ScheduleService.java:111:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/com/cts/service/ScheduleService.java:114:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/cts/service/ScheduleService.java:114:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/cts/service/ScheduleService.java:114:	LocalVariableCouldBeFinal: Local variable 'medicine' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:114:	LocalVariableCouldBeFinal: Local variable 'medicine' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:115:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/service/ScheduleService.java:115:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/service/ScheduleService.java:115:	LocalVariableCouldBeFinal: Local variable 'medicineStock' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:115:	LocalVariableCouldBeFinal: Local variable 'medicineStock' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:116:	LocalVariableCouldBeFinal: Local variable 'med' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:116:	LocalVariableCouldBeFinal: Local variable 'med' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:122:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/service/ScheduleService.java:122:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/service/ScheduleService.java:123:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/service/ScheduleService.java:123:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/service/ScheduleService.java:124:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/service/ScheduleService.java:124:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/service/ScheduleService.java:124:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/service/ScheduleService.java:124:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/service/ScheduleService.java:127:	LocalVariableCouldBeFinal: Local variable 'schedDate' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:127:	LocalVariableCouldBeFinal: Local variable 'schedDate' could be declared final
+src/main/java/com/cts/service/ScheduleService.java:128:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/com/cts/service/ScheduleService.java:128:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/com/cts/service/ScheduleService.java:128:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/service/ScheduleService.java:128:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/service/ScheduleService.java:129:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'dateCount' (lines '129'-'136').
+src/main/java/com/cts/service/ScheduleService.java:129:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'dateCount' (lines '129'-'136').
+src/main/java/com/cts/service/ScheduleService.java:132:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/service/ScheduleService.java:132:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/service/ScheduleService.java:136:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'dateCount' (lines '136'-'143').
+src/main/java/com/cts/service/ScheduleService.java:136:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'dateCount' (lines '136'-'143').
+src/main/java/com/cts/service/ScheduleService.java:137:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'repCount' (lines '137'-'143').
+src/main/java/com/cts/service/ScheduleService.java:137:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'repCount' (lines '137'-'143').
+src/test/java/com/cts/Application/MedicalRepresentativeScheduleMicroserviceApplicationTests.java:1:	PackageCase: Package name contains upper case characters
+src/test/java/com/cts/Application/MedicalRepresentativeScheduleMicroserviceApplicationTests.java:1:	PackageCase: Package name contains upper case characters
+src/test/java/com/cts/Application/MedicalRepresentativeScheduleMicroserviceApplicationTests.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/cts/Application/MedicalRepresentativeScheduleMicroserviceApplicationTests.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/cts/Application/MedicalRepresentativeScheduleMicroserviceApplicationTests.java:7:	CommentRequired: Class comments are required
+src/test/java/com/cts/Application/MedicalRepresentativeScheduleMicroserviceApplicationTests.java:7:	CommentRequired: Class comments are required
+src/test/java/com/cts/Application/MedicalRepresentativeScheduleMicroserviceApplicationTests.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/cts/Application/MedicalRepresentativeScheduleMicroserviceApplicationTests.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/cts/Application/MedicalRepresentativeScheduleMicroserviceApplicationTests.java:10:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/cts/Application/MedicalRepresentativeScheduleMicroserviceApplicationTests.java:10:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/cts/Application/MedicalRepresentativeScheduleMicroserviceApplicationTests.java:10:	UncommentedEmptyMethodBody: Document empty method body
+src/test/java/com/cts/Application/MedicalRepresentativeScheduleMicroserviceApplicationTests.java:10:	UncommentedEmptyMethodBody: Document empty method body
+src/test/java/com/cts/controller/ScheduleControllerTest.java:1:	TooManyStaticImports: Too many static imports may lead to messy code
+src/test/java/com/cts/controller/ScheduleControllerTest.java:1:	TooManyStaticImports: Too many static imports may lead to messy code
+src/test/java/com/cts/controller/ScheduleControllerTest.java:31:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/cts/controller/ScheduleControllerTest.java:31:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/cts/controller/ScheduleControllerTest.java:31:	CommentRequired: Class comments are required
+src/test/java/com/cts/controller/ScheduleControllerTest.java:31:	CommentRequired: Class comments are required
+src/test/java/com/cts/controller/ScheduleControllerTest.java:33:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/cts/controller/ScheduleControllerTest.java:33:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/cts/controller/ScheduleControllerTest.java:34:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the scheduleController field if you want a default access modifier
+src/test/java/com/cts/controller/ScheduleControllerTest.java:34:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the scheduleController field if you want a default access modifier
+src/test/java/com/cts/controller/ScheduleControllerTest.java:34:	CommentRequired: Field comments are required
+src/test/java/com/cts/controller/ScheduleControllerTest.java:34:	CommentRequired: Field comments are required
+src/test/java/com/cts/controller/ScheduleControllerTest.java:34:	LongVariable: Avoid excessively long variable names like scheduleController
+src/test/java/com/cts/controller/ScheduleControllerTest.java:34:	LongVariable: Avoid excessively long variable names like scheduleController
+src/test/java/com/cts/controller/ScheduleControllerTest.java:36:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/cts/controller/ScheduleControllerTest.java:36:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/cts/controller/ScheduleControllerTest.java:37:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cts/controller/ScheduleControllerTest.java:37:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cts/controller/ScheduleControllerTest.java:37:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the service field if you want a default access modifier
+src/test/java/com/cts/controller/ScheduleControllerTest.java:37:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the service field if you want a default access modifier
+src/test/java/com/cts/controller/ScheduleControllerTest.java:37:	CommentRequired: Field comments are required
+src/test/java/com/cts/controller/ScheduleControllerTest.java:37:	CommentRequired: Field comments are required
+src/test/java/com/cts/controller/ScheduleControllerTest.java:40:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cts/controller/ScheduleControllerTest.java:40:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cts/controller/ScheduleControllerTest.java:40:	CommentRequired: Field comments are required
+src/test/java/com/cts/controller/ScheduleControllerTest.java:40:	CommentRequired: Field comments are required
+src/test/java/com/cts/controller/ScheduleControllerTest.java:43:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cts/controller/ScheduleControllerTest.java:43:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cts/controller/ScheduleControllerTest.java:43:	CommentRequired: Field comments are required
+src/test/java/com/cts/controller/ScheduleControllerTest.java:43:	CommentRequired: Field comments are required
+src/test/java/com/cts/controller/ScheduleControllerTest.java:46:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the setUp method if you want a default access modifier
+src/test/java/com/cts/controller/ScheduleControllerTest.java:46:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the setUp method if you want a default access modifier
+src/test/java/com/cts/controller/ScheduleControllerTest.java:51:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testScheduleMeeting method if you want a default access modifier
+src/test/java/com/cts/controller/ScheduleControllerTest.java:51:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testScheduleMeeting method if you want a default access modifier
+src/test/java/com/cts/controller/ScheduleControllerTest.java:51:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/cts/controller/ScheduleControllerTest.java:51:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/cts/controller/ScheduleControllerTest.java:52:	AvoidDuplicateLiterals: The String literal "1PM to 2PM" appears 6 times in this file; the first occurrence is on line 52
+src/test/java/com/cts/controller/ScheduleControllerTest.java:52:	AvoidDuplicateLiterals: The String literal "1PM to 2PM" appears 6 times in this file; the first occurrence is on line 52
+src/test/java/com/cts/controller/ScheduleControllerTest.java:52:	LocalVariableCouldBeFinal: Local variable 's1' could be declared final
+src/test/java/com/cts/controller/ScheduleControllerTest.java:52:	LocalVariableCouldBeFinal: Local variable 's1' could be declared final
+src/test/java/com/cts/controller/ScheduleControllerTest.java:52:	ShortVariable: Avoid variables with short names like s1
+src/test/java/com/cts/controller/ScheduleControllerTest.java:52:	ShortVariable: Avoid variables with short names like s1
+src/test/java/com/cts/controller/ScheduleControllerTest.java:53:	UseUnderscoresInNumericLiterals: Number 987654321 should separate every third digit with an underscore
+src/test/java/com/cts/controller/ScheduleControllerTest.java:53:	UseUnderscoresInNumericLiterals: Number 987654321 should separate every third digit with an underscore
+src/test/java/com/cts/controller/ScheduleControllerTest.java:54:	LocalVariableCouldBeFinal: Local variable 's2' could be declared final
+src/test/java/com/cts/controller/ScheduleControllerTest.java:54:	LocalVariableCouldBeFinal: Local variable 's2' could be declared final
+src/test/java/com/cts/controller/ScheduleControllerTest.java:54:	ShortVariable: Avoid variables with short names like s2
+src/test/java/com/cts/controller/ScheduleControllerTest.java:54:	ShortVariable: Avoid variables with short names like s2
+src/test/java/com/cts/controller/ScheduleControllerTest.java:55:	UseUnderscoresInNumericLiterals: Number 987650321 should separate every third digit with an underscore
+src/test/java/com/cts/controller/ScheduleControllerTest.java:55:	UseUnderscoresInNumericLiterals: Number 987650321 should separate every third digit with an underscore
+src/test/java/com/cts/controller/ScheduleControllerTest.java:56:	AvoidDuplicateLiterals: The String literal "2020-08-06" appears 4 times in this file; the first occurrence is on line 56
+src/test/java/com/cts/controller/ScheduleControllerTest.java:56:	AvoidDuplicateLiterals: The String literal "2020-08-06" appears 4 times in this file; the first occurrence is on line 56
+src/test/java/com/cts/controller/ScheduleControllerTest.java:56:	AvoidDuplicateLiterals: The String literal "authorization" appears 6 times in this file; the first occurrence is on line 56
+src/test/java/com/cts/controller/ScheduleControllerTest.java:56:	AvoidDuplicateLiterals: The String literal "authorization" appears 6 times in this file; the first occurrence is on line 56
+src/test/java/com/cts/controller/ScheduleControllerTest.java:56:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:56:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:56:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:56:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:57:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:57:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:57:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:57:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:62:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:62:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:63:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:63:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:71:	UseUnderscoresInNumericLiterals: Number 987654321 should separate every third digit with an underscore
+src/test/java/com/cts/controller/ScheduleControllerTest.java:71:	UseUnderscoresInNumericLiterals: Number 987654321 should separate every third digit with an underscore
+src/test/java/com/cts/controller/ScheduleControllerTest.java:78:	UseUnderscoresInNumericLiterals: Number 987650321 should separate every third digit with an underscore
+src/test/java/com/cts/controller/ScheduleControllerTest.java:78:	UseUnderscoresInNumericLiterals: Number 987650321 should separate every third digit with an underscore
+src/test/java/com/cts/controller/ScheduleControllerTest.java:82:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testScheduleMeetingWrongAuthorization method if you want a default access modifier
+src/test/java/com/cts/controller/ScheduleControllerTest.java:82:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testScheduleMeetingWrongAuthorization method if you want a default access modifier
+src/test/java/com/cts/controller/ScheduleControllerTest.java:82:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/cts/controller/ScheduleControllerTest.java:82:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/cts/controller/ScheduleControllerTest.java:83:	LocalVariableCouldBeFinal: Local variable 's1' could be declared final
+src/test/java/com/cts/controller/ScheduleControllerTest.java:83:	LocalVariableCouldBeFinal: Local variable 's1' could be declared final
+src/test/java/com/cts/controller/ScheduleControllerTest.java:83:	ShortVariable: Avoid variables with short names like s1
+src/test/java/com/cts/controller/ScheduleControllerTest.java:83:	ShortVariable: Avoid variables with short names like s1
+src/test/java/com/cts/controller/ScheduleControllerTest.java:84:	UseUnderscoresInNumericLiterals: Number 987654321 should separate every third digit with an underscore
+src/test/java/com/cts/controller/ScheduleControllerTest.java:84:	UseUnderscoresInNumericLiterals: Number 987654321 should separate every third digit with an underscore
+src/test/java/com/cts/controller/ScheduleControllerTest.java:85:	LocalVariableCouldBeFinal: Local variable 's2' could be declared final
+src/test/java/com/cts/controller/ScheduleControllerTest.java:85:	LocalVariableCouldBeFinal: Local variable 's2' could be declared final
+src/test/java/com/cts/controller/ScheduleControllerTest.java:85:	ShortVariable: Avoid variables with short names like s2
+src/test/java/com/cts/controller/ScheduleControllerTest.java:85:	ShortVariable: Avoid variables with short names like s2
+src/test/java/com/cts/controller/ScheduleControllerTest.java:86:	UseUnderscoresInNumericLiterals: Number 987650321 should separate every third digit with an underscore
+src/test/java/com/cts/controller/ScheduleControllerTest.java:86:	UseUnderscoresInNumericLiterals: Number 987650321 should separate every third digit with an underscore
+src/test/java/com/cts/controller/ScheduleControllerTest.java:87:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:87:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:87:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:87:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:88:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:88:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:88:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:88:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:91:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:91:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:91:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:91:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:91:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:91:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:91:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:91:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:93:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/controller/ScheduleControllerTest.java:93:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/date_formatter/DateFormatTest.java:17:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/cts/date_formatter/DateFormatTest.java:17:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/cts/date_formatter/DateFormatTest.java:17:	CommentRequired: Class comments are required
+src/test/java/com/cts/date_formatter/DateFormatTest.java:17:	CommentRequired: Class comments are required
+src/test/java/com/cts/date_formatter/DateFormatTest.java:19:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/cts/date_formatter/DateFormatTest.java:19:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/cts/date_formatter/DateFormatTest.java:20:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cts/date_formatter/DateFormatTest.java:20:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cts/date_formatter/DateFormatTest.java:20:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the dateFormat field if you want a default access modifier
+src/test/java/com/cts/date_formatter/DateFormatTest.java:20:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the dateFormat field if you want a default access modifier
+src/test/java/com/cts/date_formatter/DateFormatTest.java:20:	CommentRequired: Field comments are required
+src/test/java/com/cts/date_formatter/DateFormatTest.java:20:	CommentRequired: Field comments are required
+src/test/java/com/cts/date_formatter/DateFormatTest.java:23:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the setUp method if you want a default access modifier
+src/test/java/com/cts/date_formatter/DateFormatTest.java:23:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the setUp method if you want a default access modifier
+src/test/java/com/cts/date_formatter/DateFormatTest.java:28:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testDateToString method if you want a default access modifier
+src/test/java/com/cts/date_formatter/DateFormatTest.java:28:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testDateToString method if you want a default access modifier
+src/test/java/com/cts/date_formatter/DateFormatTest.java:29:	LocalVariableCouldBeFinal: Local variable 'date' could be declared final
+src/test/java/com/cts/date_formatter/DateFormatTest.java:29:	LocalVariableCouldBeFinal: Local variable 'date' could be declared final
+src/test/java/com/cts/date_formatter/DateFormatTest.java:29:	UseUnderscoresInNumericLiterals: Number 1220227200L should separate every third digit with an underscore
+src/test/java/com/cts/date_formatter/DateFormatTest.java:29:	UseUnderscoresInNumericLiterals: Number 1220227200L should separate every third digit with an underscore
+src/test/java/com/cts/date_formatter/DateFormatTest.java:30:	LocalVariableCouldBeFinal: Local variable 'expected' could be declared final
+src/test/java/com/cts/date_formatter/DateFormatTest.java:30:	LocalVariableCouldBeFinal: Local variable 'expected' could be declared final
+src/test/java/com/cts/date_formatter/DateFormatTest.java:31:	LocalVariableCouldBeFinal: Local variable 'actual' could be declared final
+src/test/java/com/cts/date_formatter/DateFormatTest.java:31:	LocalVariableCouldBeFinal: Local variable 'actual' could be declared final
+src/test/java/com/cts/date_formatter/DateFormatTest.java:32:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/cts/date_formatter/DateFormatTest.java:32:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/cts/date_formatter/DateFormatTest.java:36:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testStringToDate method if you want a default access modifier
+src/test/java/com/cts/date_formatter/DateFormatTest.java:36:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testStringToDate method if you want a default access modifier
+src/test/java/com/cts/date_formatter/DateFormatTest.java:37:	LocalVariableCouldBeFinal: Local variable 'date' could be declared final
+src/test/java/com/cts/date_formatter/DateFormatTest.java:37:	LocalVariableCouldBeFinal: Local variable 'date' could be declared final
+src/test/java/com/cts/date_formatter/DateFormatTest.java:38:	LocalVariableCouldBeFinal: Local variable 'expected' could be declared final
+src/test/java/com/cts/date_formatter/DateFormatTest.java:38:	LocalVariableCouldBeFinal: Local variable 'expected' could be declared final
+src/test/java/com/cts/date_formatter/DateFormatTest.java:38:	UseUnderscoresInNumericLiterals: Number 1220207400L should separate every third digit with an underscore
+src/test/java/com/cts/date_formatter/DateFormatTest.java:38:	UseUnderscoresInNumericLiterals: Number 1220207400L should separate every third digit with an underscore
+src/test/java/com/cts/date_formatter/DateFormatTest.java:38:	UselessParentheses: Useless parentheses.
+src/test/java/com/cts/date_formatter/DateFormatTest.java:38:	UselessParentheses: Useless parentheses.
+src/test/java/com/cts/date_formatter/DateFormatTest.java:39:	LocalVariableCouldBeFinal: Local variable 'actual' could be declared final
+src/test/java/com/cts/date_formatter/DateFormatTest.java:39:	LocalVariableCouldBeFinal: Local variable 'actual' could be declared final
+src/test/java/com/cts/date_formatter/DateFormatTest.java:40:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/cts/date_formatter/DateFormatTest.java:40:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/cts/date_formatter/DateFormatTest.java:44:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testStringToDateError method if you want a default access modifier
+src/test/java/com/cts/date_formatter/DateFormatTest.java:44:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testStringToDateError method if you want a default access modifier
+src/test/java/com/cts/date_formatter/DateFormatTest.java:45:	LocalVariableCouldBeFinal: Local variable 'date' could be declared final
+src/test/java/com/cts/date_formatter/DateFormatTest.java:45:	LocalVariableCouldBeFinal: Local variable 'date' could be declared final
+src/test/java/com/cts/service/ScheduleServiceTest.java:21:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/cts/service/ScheduleServiceTest.java:21:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/cts/service/ScheduleServiceTest.java:21:	CommentRequired: Class comments are required
+src/test/java/com/cts/service/ScheduleServiceTest.java:21:	CommentRequired: Class comments are required
+src/test/java/com/cts/service/ScheduleServiceTest.java:23:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/cts/service/ScheduleServiceTest.java:23:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/cts/service/ScheduleServiceTest.java:24:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cts/service/ScheduleServiceTest.java:24:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cts/service/ScheduleServiceTest.java:24:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the scheduleService field if you want a default access modifier
+src/test/java/com/cts/service/ScheduleServiceTest.java:24:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the scheduleService field if you want a default access modifier
+src/test/java/com/cts/service/ScheduleServiceTest.java:24:	CommentRequired: Field comments are required
+src/test/java/com/cts/service/ScheduleServiceTest.java:24:	CommentRequired: Field comments are required
+src/test/java/com/cts/service/ScheduleServiceTest.java:25:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/cts/service/ScheduleServiceTest.java:25:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/cts/service/ScheduleServiceTest.java:26:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cts/service/ScheduleServiceTest.java:26:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/cts/service/ScheduleServiceTest.java:26:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the feign field if you want a default access modifier
+src/test/java/com/cts/service/ScheduleServiceTest.java:26:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the feign field if you want a default access modifier
+src/test/java/com/cts/service/ScheduleServiceTest.java:26:	CommentRequired: Field comments are required
+src/test/java/com/cts/service/ScheduleServiceTest.java:26:	CommentRequired: Field comments are required
+src/test/java/com/cts/service/ScheduleServiceTest.java:29:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/cts/service/ScheduleServiceTest.java:29:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/cts/service/ScheduleServiceTest.java:31:	LocalVariableCouldBeFinal: Local variable 'actual' could be declared final
+src/test/java/com/cts/service/ScheduleServiceTest.java:31:	LocalVariableCouldBeFinal: Local variable 'actual' could be declared final
+src/test/java/com/cts/service/ScheduleServiceTest.java:33:	LocalVariableCouldBeFinal: Local variable 'expected' could be declared final
+src/test/java/com/cts/service/ScheduleServiceTest.java:33:	LocalVariableCouldBeFinal: Local variable 'expected' could be declared final
+src/test/java/com/cts/service/ScheduleServiceTest.java:34:	UseUnderscoresInNumericLiterals: Number 9884122113L should separate every third digit with an underscore
+src/test/java/com/cts/service/ScheduleServiceTest.java:34:	UseUnderscoresInNumericLiterals: Number 9884122113L should separate every third digit with an underscore
+src/test/java/com/cts/service/ScheduleServiceTest.java:35:	UseUnderscoresInNumericLiterals: Number 9876543210L should separate every third digit with an underscore
+src/test/java/com/cts/service/ScheduleServiceTest.java:35:	UseUnderscoresInNumericLiterals: Number 9876543210L should separate every third digit with an underscore
+src/test/java/com/cts/service/ScheduleServiceTest.java:36:	UseUnderscoresInNumericLiterals: Number 9123456780L should separate every third digit with an underscore
+src/test/java/com/cts/service/ScheduleServiceTest.java:36:	UseUnderscoresInNumericLiterals: Number 9123456780L should separate every third digit with an underscore
+src/test/java/com/cts/service/ScheduleServiceTest.java:37:	UseUnderscoresInNumericLiterals: Number 7891234560L should separate every third digit with an underscore
+src/test/java/com/cts/service/ScheduleServiceTest.java:37:	UseUnderscoresInNumericLiterals: Number 7891234560L should separate every third digit with an underscore
+src/test/java/com/cts/service/ScheduleServiceTest.java:38:	UseUnderscoresInNumericLiterals: Number 8976543210L should separate every third digit with an underscore
+src/test/java/com/cts/service/ScheduleServiceTest.java:38:	UseUnderscoresInNumericLiterals: Number 8976543210L should separate every third digit with an underscore
+src/test/java/com/cts/service/ScheduleServiceTest.java:40:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/cts/service/ScheduleServiceTest.java:40:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/cts/service/ScheduleServiceTest.java:45:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/cts/service/ScheduleServiceTest.java:45:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/cts/service/ScheduleServiceTest.java:46:	LocalVariableCouldBeFinal: Local variable 'actual' could be declared final
+src/test/java/com/cts/service/ScheduleServiceTest.java:46:	LocalVariableCouldBeFinal: Local variable 'actual' could be declared final
+src/test/java/com/cts/service/ScheduleServiceTest.java:47:	LocalVariableCouldBeFinal: Local variable 'expected' could be declared final
+src/test/java/com/cts/service/ScheduleServiceTest.java:47:	LocalVariableCouldBeFinal: Local variable 'expected' could be declared final
+src/test/java/com/cts/service/ScheduleServiceTest.java:51:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/cts/service/ScheduleServiceTest.java:51:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/cts/service/ScheduleServiceTest.java:55:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/cts/service/ScheduleServiceTest.java:55:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/cts/service/ScheduleServiceTest.java:57:	LocalVariableCouldBeFinal: Local variable 'actualMedicines' could be declared final
+src/test/java/com/cts/service/ScheduleServiceTest.java:57:	LocalVariableCouldBeFinal: Local variable 'actualMedicines' could be declared final
+src/test/java/com/cts/service/ScheduleServiceTest.java:58:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/test/java/com/cts/service/ScheduleServiceTest.java:58:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/test/java/com/cts/service/ScheduleServiceTest.java:59:	LocalVariableCouldBeFinal: Local variable 'meds' could be declared final
+src/test/java/com/cts/service/ScheduleServiceTest.java:59:	LocalVariableCouldBeFinal: Local variable 'meds' could be declared final
+src/test/java/com/cts/service/ScheduleServiceTest.java:60:	LocalVariableCouldBeFinal: Local variable 'm' could be declared final
+src/test/java/com/cts/service/ScheduleServiceTest.java:60:	LocalVariableCouldBeFinal: Local variable 'm' could be declared final
+src/test/java/com/cts/service/ScheduleServiceTest.java:61:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/service/ScheduleServiceTest.java:61:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/cts/service/ScheduleServiceTest.java:61:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/test/java/com/cts/service/ScheduleServiceTest.java:61:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/test/java/com/cts/service/ScheduleServiceTest.java:66:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/cts/service/ScheduleServiceTest.java:66:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
